@@ -4,3 +4,5 @@ $("#example-basic").steps({
     transitionEffect: "slideLeft",
     autoFocus: true
 });
+
+(function(){alert('Test World CI..');})();
